@@ -3,6 +3,7 @@
 
 ##### Hiển thị ảnh và tiêu đề:
 `Hiển thị ảnh trên từng tin nhắn:`
+![](https://github.com/nghuyy/iota/blob/main/src/Screenshot%20(11).png?raw=true)
 ```
     Đẩu ra: 
       {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'l' : "nội dung gọi lại iota hoặc website khác" } 
