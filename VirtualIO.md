@@ -21,7 +21,9 @@ Mẫu:
     1 ảnh: https://test-box.vsys.vn/dashb/botedit/5fe41188c3d69007f54c878f
 ```
 `Hiển thị ảnh theo hàng ngang với thanh cuộn:`
+
 ![](https://github.com/nghuyy/iota/blob/main/src/src12.png?raw=true|124)
+
 ```
     Đẩu ra: 
       { 'iolist':[
@@ -33,5 +35,6 @@ Mẫu:
 ```
 ```text
 Ví dụ: https://test-box.vsys.vn/dashb/botedit/5fe44455c3d69007f54c8790
+
 ```
 
