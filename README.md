@@ -3,6 +3,6 @@
 
 ```
   + Mọi kí tự ' sẽ được chuyển thành \". Để gởi 1 cấu trúc JSON
-    không hỗ trợ " có thể dùng ' để thay thế ví dụ:
+    từ IO không hỗ trợ " có thể dùng ' để thay thế ví dụ:
      "{\"data\":1}" tương đương với "{'data':1}
 ```
