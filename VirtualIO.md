@@ -2,7 +2,7 @@
 ` Có thể sử dụng sanbox tương tự VTIO với dữ liệu tương ứng là chuỗi`
 
 + Hiển thị ảnh và tiêu đề:
-  ```text
+```
     Đẩu ra: 
       {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'l' : "nội dung gọi lại iota hoặc website khác" } 
 ```
