@@ -3,7 +3,9 @@
 
 ##### Hiển thị ảnh và tiêu đề:
 `Hiển thị ảnh trên từng tin nhắn:`
-![](https://github.com/nghuyy/iota/blob/main/src/Screenshot%20(11).png?raw=true)
+
+![](https://github.com/nghuyy/iota/blob/main/src/src11.png?raw=true|124)
+
 ```
     Đẩu ra: 
       {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'l' : "nội dung gọi lại iota hoặc website khác" } 
@@ -19,3 +21,4 @@ Mẫu:
     1 ảnh: https://test-box.vsys.vn/dashb/botedit/5fe41188c3d69007f54c878f
 ```
 `Hiển thị ảnh theo hàng ngang với thanh cuộn:`
+![](https://github.com/nghuyy/iota/blob/main/src/src12.png?raw=true|124)
