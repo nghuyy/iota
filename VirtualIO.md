@@ -31,7 +31,5 @@ Mẫu:
         'n':' Tiêu đề chính' 
       } 
 ```
-```text
- ví dụ:
- [Sandboxtest](https://test-box.vsys.vn/dashb/botedit/5fe44455c3d69007f54c8790)
-```
+
+Ví dụ:[Sandboxtest](https://test-box.vsys.vn/dashb/botedit/5fe44455c3d69007f54c8790)
