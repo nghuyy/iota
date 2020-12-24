@@ -22,3 +22,16 @@ Mẫu:
 ```
 `Hiển thị ảnh theo hàng ngang với thanh cuộn:`
 ![](https://github.com/nghuyy/iota/blob/main/src/src12.png?raw=true|124)
+```
+    Đẩu ra: 
+      { 'iolist':[
+             {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'l' : "nội dung gọi lại iota hoặc website khác"},
+            {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'l' : "nội dung gọi lại iota hoặc website khác"},
+          ],
+        'n':' Tiêu đề chính' 
+      } 
+```
+```text
+ ví dụ:
+ [Sandboxtest](https://test-box.vsys.vn/dashb/botedit/5fe44455c3d69007f54c8790)
+```
