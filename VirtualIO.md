@@ -8,6 +8,11 @@
 ```
 Mẫu: 
 ```
-io.send,{'src':'https://live.staticflickr.com/65535/50381112368_f0afc44dbc_o_d.jpg','p': 10, 'w': 124 , 'h': 164 , 't': 'Ảnh 1', 'l' : 'iota://anh1' }  
+    io.send,{'src':'https://live.staticflickr.com/65535/50381112368_f0afc44dbc_o_d.jpg','p': 10, 'w': 124 , 'h': 164 , 't': 'Ảnh 1', 'l' : 'iota://anh1' }   
+    io.send,{'src':'https://live.staticflickr.com/65535/50381112368_f0afc44dbc_o_d.jpg','p': 10, 'w': 124 , 'h': 164 , 't': 'Ảnh 2', 'l' : 'iota://anh2' }  
 ```
-Ví dụ: https://test-box.vsys.vn/dashb/botedit/5fe3fa2ac3d69007f54c878e
+```text
+    Ví dụ: 
+    Nhiều ảnh: https://test-box.vsys.vn/dashb/botedit/5fe3fa2ac3d69007f54c878e
+    1 ảnh: https://test-box.vsys.vn/dashb/botedit/5fe41188c3d69007f54c878f
+```
