@@ -13,6 +13,6 @@
 ```
 * Ghép tham số và đầu vào (Dùng cho Virtual IO)
 ```text
-    Khi quy định tham số đầu vào, dữ liệu gọi tiếp theo sẽ kết hợp với tham số ví dụ khi user gõ ok, sẽ nhận lại id_ok
+    Khi quy định tham số đầu vào, dữ liệu gọi tiếp theo sẽ kết hợp với tham số. Ví dụ khi user gõ ok, sẽ nhận lại id_ok
    :fx,id
 ```
