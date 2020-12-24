@@ -31,5 +31,7 @@ Mẫu:
         'n':' Tiêu đề chính' 
       } 
 ```
+```text
+Ví dụ: https://test-box.vsys.vn/dashb/botedit/5fe44455c3d69007f54c8790
+```
 
-Ví dụ:[IOTA TEST](https://test-box.vsys.vn/dashb/botedit/5fe44455c3d69007f54c8790)
