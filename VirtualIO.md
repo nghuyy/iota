@@ -1,7 +1,8 @@
 #### Tài liệu sử dụng cho IOTA - Virtual IO
 ` Có thể sử dụng sanbox tương tự VTIO với dữ liệu tương ứng là chuỗi`
 
-+ Hiển thị ảnh và tiêu đề:
+##### Hiển thị ảnh và tiêu đề:
+`Hiển thị ảnh trên từng tin nhắn:`
 ```
     Đẩu ra: 
       {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'l' : "nội dung gọi lại iota hoặc website khác" } 
@@ -16,3 +17,4 @@ Mẫu:
     Nhiều ảnh: https://test-box.vsys.vn/dashb/botedit/5fe3fa2ac3d69007f54c878e
     1 ảnh: https://test-box.vsys.vn/dashb/botedit/5fe41188c3d69007f54c878f
 ```
+`Hiển thị ảnh theo hàng ngang với thanh cuộn:`
