@@ -1,4 +1,4 @@
-#### Tài liệu sử dụng cho IOTA - Virtual IO
+#### Tài liệu sử dụng cho IOTA - Cloud IO
 ` Có thể sử dụng sanbox tương tự VTIO với dữ liệu tương ứng là chuỗi`
 
 ##### Hiển thị ảnh và tiêu đề:
