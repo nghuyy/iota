@@ -38,4 +38,6 @@ Ví dụ: https://test-box.vsys.vn/dashb/botedit/5fe44455c3d69007f54c8790
 
 ```
 Phát video:
+
+```
 D4I101,"io.send,0392980291,:cls"D4I101,"io.send,0392980291,{'video':'https://next.iotabot.app/index.php/s/zMkeBpqmNFC66Ky/download', 't': 'Ảnh 1', 'l' : 'iota://anh1'}"
