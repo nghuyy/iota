@@ -13,10 +13,10 @@
 ```
 * Ghép tham số và đầu vào (Dùng cho Virtual IO)
 ```text
-    Khi quy định tham số đầu vào, dữ liệu gọi tiếp theo sẽ kết hợp với tham số. Ví dụ khi user gõ ok, sẽ nhận lại id_ok
-   :fx,id
+  Khi quy định tham số đầu vào, dữ liệu gọi tiếp theo sẽ kết hợp với tham số. Ví dụ khi user gõ ok, sẽ nhận lại id_ok
+out=':fx,id'
 ```
 * Gởi 1 liên kết đến người dùng, khi gởi 1 tin nhắn kèm link (http,https) link đó sẽ tự được phát hiện và user có thể click vào đó để mở, ví dụ:
 ```
-Google https://google.com.vn
+out='Google https://google.com.vn'
 ```
