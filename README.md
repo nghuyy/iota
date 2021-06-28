@@ -9,7 +9,7 @@
 ```
 * Xóa màn hình tin nhắn
 ```text
-    :cls
+out=':cls'
 ```
 * Ghép tham số và đầu vào (Dùng cho Virtual IO)
 ```text
