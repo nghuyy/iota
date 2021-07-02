@@ -1,5 +1,5 @@
 #### Tài liệu sử dụng cho IOTA - Sandbox - Virtual IO
-[![](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=docker&label=Online&query=%24.version&url=https%3A%2F%2F.iotabot.app%2Frelease.json)]
+![](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=docker&label=Online&query=%24.version&url=https%3A%2F%2F.iotabot.app%2Frelease.json)
 ![](https://img.shields.io/badge/dynamic/json?logo=libreoffice&style=flat-square&label=Note&query=%24.release_note&url=https%3A%2F%2Fiotabot.app%2Frelease.json)
 
 ```
