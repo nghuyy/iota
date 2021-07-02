@@ -1,5 +1,5 @@
 #### Tài liệu sử dụng cho IOTA - Sandbox - Virtual IO
-`Version 1.0`
+![](https://img.shields.io/badge/dynamic/json?logo=libreoffice&style=flat-square&label=Note&query=%24.release_note&url=https%3A%2F%2Fiotabot.app%2Frelease.json)
 
 ```
   + Mọi kí tự ' sẽ được chuyển thành \". Để gởi 1 cấu trúc JSON
