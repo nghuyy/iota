@@ -1,6 +1,7 @@
 [![](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=docker&label=Online&query=%24.version&url=https%3A%2F%2F.iotabot.app%2Frelease.json)](https://bank.iotabot.app)
 ![](https://img.shields.io/badge/dynamic/json?logo=libreoffice&style=flat-square&label=Note&query=%24.release_note&url=https%3A%2F%2Fiotabot.app%2Frelease.json)
 
+Chú ý
 ```
   + Mọi kí tự ' sẽ được chuyển thành \". Để gởi 1 cấu trúc JSON
     từ IO không hỗ trợ " có thể dùng ' để thay thế ví dụ:
