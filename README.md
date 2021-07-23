@@ -21,7 +21,7 @@ out=':fx,id'
 ```
 out='Google https://google.com.vn'
 ```
-* Inbox:
+* IOTA Inbox:
 ```
 Content-Type application/json
 POST: https://iotabot.app/api
