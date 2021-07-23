@@ -21,3 +21,13 @@ out=':fx,id'
 ```
 out='Google https://google.com.vn'
 ```
+* Inbox:
+```
+Content-Type application/json
+POST: https://iotabot.app/api
+{"cmd":"<cmd>", "token":"<token>", "d":"<d>", "to":"<to>"}
+cmd: inbox
+token: "xxxx"
+d: nội dung tin nhắn
+to: SĐT IOTA
+```
