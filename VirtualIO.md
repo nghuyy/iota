@@ -8,7 +8,7 @@
 
 ```
     Đẩu ra: 
-      {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'l' : "nội dung gọi lại iota hoặc website khác" } 
+      {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'd': 'Mô tả' , 'l' : "nội dung gọi lại iota hoặc website khác" } 
 ```
 Mẫu: 
 ```
@@ -27,7 +27,7 @@ Mẫu:
 ```
     Đẩu ra: 
       { 'iolist':[
-             {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'l' : "nội dung gọi lại iota hoặc website khác"},
+             {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề','d':'Mô tả', 'l' : "nội dung gọi lại iota hoặc website khác"},
             {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'l' : "nội dung gọi lại iota hoặc website khác"},
           ],
         'n':' Tiêu đề chính' 
