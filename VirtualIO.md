@@ -43,7 +43,7 @@ Flow list
         'n':' Tiêu đề chính' 
       } 
 ```
-Flow list
+Columns list
 ```
     Đẩu ra: 
       { 'clist':[
