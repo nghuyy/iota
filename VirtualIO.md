@@ -33,6 +33,29 @@ Mẫu:
         'n':' Tiêu đề chính' 
       } 
 ```
+Flow list
+```
+    Đẩu ra: 
+      { 'list':[
+             {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề','d':'Mô tả', 'l' : "nội dung gọi lại iota hoặc website khác"},
+            {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'l' : "nội dung gọi lại iota hoặc website khác"},
+          ],
+        'n':' Tiêu đề chính' 
+      } 
+```
+Flow list
+```
+    Đẩu ra: 
+      { 'clist':[
+             {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề','d':'Mô tả', 'l' : "nội dung gọi lại iota hoặc website khác"},
+            {'src':'url ảnh','p': "độ padding", 'w': "chiều rộng" , 'h': "chiều cao" , 't': 'Tiêu đề', 'l' : "nội dung gọi lại iota hoặc website khác"},
+          ],
+        'n':' Tiêu đề chính',
+        'columns':4
+      } 
+```
+
+
 ```text
 Ví dụ: https://test-box.vsys.vn/dashb/botedit/5fe44455c3d69007f54c8790
 
